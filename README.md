@@ -9,3 +9,7 @@
 4. TFA-code and models: Introducing the TF-A Monitor code for the Arm CCA architecture. https://developer.arm.com/tools-and-software/simulation-models/fixed-virtual-platforms/arm-ecosystem-models
 
 5. Armv-A Base RevC AEM FVP RSS实现在这里 https://tf-m-user-guide.trustedfirmware.org/platform/arm/rss/readme.html https://tf-m-user-guide.trustedfirmware.org/introduction/index.html
+
+6. Runtime Security Subsystem (RSS) https://tf-m-user-guide.trustedfirmware.org/platform/arm/rss/readme.html
+
+7. Trusted Firmware M https://tf-m-user-guide.trustedfirmware.org/introduction/index.html
